@@ -1,0 +1,65 @@
+#mulher {
+  text-align: center;
+}
+
+body h1 {
+  font-family: "Dosis", sans-serif;
+  font-style: medium;
+  font-size: 32px;
+
+  text-align: center;
+  
+  color: #3F3D56;
+}
+
+body span {
+  font-weight: bold; 
+
+  text-align: center;
+
+  color: #EE24FF;
+}
+
+body p {
+  font-family: "Open Sans";
+  font-weight: normal;
+  font-size: 15px;
+
+  text-align: center;
+
+  color: #828282;
+}
+
+body strong {
+  color: #3F3D56;
+}
+
+.line {
+  width: 626px;
+  height: 0px;
+
+  margin: 0 auto 0;
+
+  border: 1px solid #ECEFF2
+}
+
+footer p, a {
+  font-weight: bold;
+  font-family: "Open Sans";
+  font-size: 15px;
+
+  text-decoration: none;
+
+  padding-bottom: 16px;
+
+  color: #828282;
+}
+
+footer a + a {
+  margin-left: 42px;
+}
+
+footer img {
+  text-align: center;
+  width: auto;
+}
